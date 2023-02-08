@@ -12,5 +12,8 @@
   ],
   "author": "Juan Cruz Silva Cerini <juancruzcerini@hotmail.com>",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0"
+  }
 }
